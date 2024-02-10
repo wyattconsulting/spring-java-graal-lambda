@@ -28,8 +28,8 @@ dependencies {
     testImplementation("org.springframework.boot:spring-boot-starter-test")
     testImplementation("org.awaitility:awaitility")
 
-    testImplementation ("org.testcontainers:testcontainers:1.17.6")
-    testImplementation ("org.testcontainers:localstack:1.17.6")
+    testImplementation ("org.testcontainers:testcontainers:1.19.5")
+    testImplementation ("org.testcontainers:localstack:1.19.5")
     testImplementation("com.amazonaws:aws-java-sdk-core:1.12.410") //Required by test-containers
 
 

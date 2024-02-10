@@ -4,7 +4,7 @@ plugins {
     id("org.springframework.boot") version "3.0.2"
     id("io.spring.dependency-management") version "1.1.0"
     id("org.graalvm.buildtools.native") version "0.9.19"
-    id("com.diffplug.spotless") version "6.15.0"
+    id("com.diffplug.spotless") version "6.25.0"
 }
 
 group = "com.everynote"
